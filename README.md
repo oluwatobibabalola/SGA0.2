@@ -1,6 +1,6 @@
 # SGA0.2
 <!DOCTYPE html>
-
+<html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Poller+One' rel='stylesheet' type='text/css'>
 <script src="/assets/jquery.js"></script>
@@ -168,3 +168,4 @@ $(".moves").click(function() {
 });
 </script>
 </body>
+</html>
